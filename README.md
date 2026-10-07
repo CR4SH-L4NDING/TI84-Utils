@@ -11,5 +11,5 @@ Included functions:
 - Decimal to Binary Converter (16 bit)
 
 ## Installation
-Simply `git clone` this repo and use a tool such as TI-Connect or TiLP2.
+Simply `git clone` this repo and use a tool such as TI-Connect or TiLP2. \
 ```git clone https://github.com/CR4SH-L4NDING/TI84-Utils```
